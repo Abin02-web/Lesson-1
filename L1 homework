@@ -1,0 +1,9 @@
+# Daily routine
+print("After waking up at 9:00 or 8:00, I should brush my teeth.")
+print("Then I should my breakfast and take a bath.")
+print("After this I will message my mother, play chess and games, message my friends and watch something on youtube.") 
+print("I will eat lunch and I will be forced to play with my little cousin and come upstairs to my room to learn something or craft something with paper.")
+print("Then I will call my friend and play with him for a maximum of this many minutes,",20 * 2)
+print("Then I will have to play with my little cousin and after playing I will come to my room and watch something on my laptop.")
+print("Then my mother will come home so I will talk with my mother.")
+print("After eating dinner I will come upstairs, use devices for about an hour and go to sleep.")
